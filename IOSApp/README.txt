@@ -15,3 +15,10 @@ IOS App for user to pre-order their dish before arriving the court
 - "Pay your order" button: to finish the order and open the payment view (coming soon)
 - "Log out" button: to log out
 - "Account" button: to open account manager view ( coming soon)
+
+----------------------------------------------19/06/2000---------------------------------------------------------------------
+
+Database: Firebase realtime database
+
+Write order from user app to database: done
+SFCS management web read data order from database: done
